@@ -1,6 +1,7 @@
 <h1>Barbearia FioSuave</h1>
-Este é um projeto de site dinâmico e responsivo para a Barbearia ABC, desenvolvido utilizando HTML semântico, CSS, SASS e JavaScript.
+Este é um projeto de site dinâmico e responsivo para a Barbearia ABC, desenvolvido utilizando HTML semântico, CSS, SASS e JavaScript.<br><br>
 
+<img src="https://github.com/leochg2021/Proj_babearia_SP/blob/main/img/mkProjBarber.png?raw=true" />
 
 <h1>Descrição</h1>
 O objetivo deste projeto é criar um site moderno e atrativo para uma barbearia fictícia, destacando seus serviços, horários de funcionamento e informações de contato. O site será totalmente responsivo, garantindo uma experiência de usuário consistente em dispositivos móveis, tablets e desktops.
